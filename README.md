@@ -1,22 +1,20 @@
-# Atalhos-IntelliJ
-Lista de atalhos úteis para utilização na IDE IntelliJ
+# Atalhos-IntelliJ 🖥️
 
-Atalhos do IntelliJ Idea
-Atalhos do IntelliJ Idea
+## Lista de atalhos úteis para utilização na IDE IntelliJ 
 
-Geral
+### Geral
 
     Alt + 1: Focar aba de projetos
     Alt + Shift + Insert: Alterna entre modo de seleção de linha/coluna
     Ctrl + Shift + F12: Expandir a tela
 
 
-Na aba de projetos
+### Na aba de projetos
 
     Alt + Insert: Para criar um novo arquivo
 
 
-Templates de código
+### Templates de código
 
     psvm: Criar método main
     sout: System.out.println()
@@ -27,7 +25,7 @@ Templates de código
     Ctrl + J: Exibe todos os templates disponíveis
 
 
-Na aba de código
+### Na aba de código
 
     Ctrl + Y: Apaga a linha inteira
     Ctrl + D: Duplicar linha atual
@@ -56,5 +54,5 @@ Na aba de código
     Ctrl + Shift + Alt + T: Métodos de refatoração
     Ctrl + Alt + O: Reajustar imports da classe (remove imports não utilizados)
     
-    Fonte: <http://www.basef.com.br/index.php/Atalhos_do_IntelliJ_Idea>
+ *Fonte:* <http://www.basef.com.br/index.php/Atalhos_do_IntelliJ_Idea>
     
